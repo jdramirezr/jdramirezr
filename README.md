@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Python and Javascript
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Python.org
+
 
 
 <!---
