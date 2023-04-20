@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Python and Javascript
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Go
 
 
 
